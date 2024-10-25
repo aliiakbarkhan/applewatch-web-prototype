@@ -1,5 +1,7 @@
 # Apple Watch Website Prototype ⌚💻
-<img src = "Screenshots/Screenshot 2024-10-18 083418.png" width="100%" height="auto"/>
+<img src = "Screenshots/13.png" width="100%" height="auto"/>
+
+
 ## Overview ✨
 This repository contains the Figma prototype for an **Apple Watch Website**. The design mirrors Apple’s signature minimalistic approach, offering a smooth and visually appealing shopping experience. It includes sections for product showcases, features comparison, and checkout.
 
