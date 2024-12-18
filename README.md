@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/2f7bd11d-fb66-4af8-b125-6588c7ec2f2c
 ## License 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
 
-## Contributing 🤝
+## Contributing 
 This project is not open for contributions at the moment. Suggestions and feedback are always welcome!
 
 <img src = "Screenshots/13.png" width="100%" height="auto"/>
